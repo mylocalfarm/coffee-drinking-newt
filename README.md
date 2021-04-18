@@ -1,2 +1,5 @@
 # coffee-drinking-newt
-A ghost theme for a community hub such as a cafe or coffee shop.
+
+This repository contains assets that we use in the mylocal.farm fork of the Ghost theme Casper.
+
+https://github.com/mylocalfarm/Casper
