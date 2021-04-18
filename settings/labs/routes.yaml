@@ -2,7 +2,7 @@ routes:
 
 collections:
   /:
-    data: page.home
+    data: page.location-and-hours
     permalink: /{slug}/
     template: index
 
